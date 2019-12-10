@@ -1,0 +1,24 @@
+#tab-bar.demo {
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demoName {
+  height: 40px;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+  background-color: white;
+}
+#my-list .spe .am-list-extra {
+  flex-basis: initial;
+}
+
+#my-header-background-color {
+  background-color: blue;
+  flex-basis: initial;
+  width: 40px;
+  height: 60px;
+}
+
+#home-qrcode-pos .am-div{
+   margin:0 auto
+}
